@@ -1,4 +1,4 @@
-je suis un étudiant de l'ensae
+je suis un etudiant de lensae
 
 je suis en cours de python
 
