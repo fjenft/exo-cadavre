@@ -1,5 +1,7 @@
-je suis un etudiant de lensae
+Je suis un étudiant de l'ENSAE
 
-je suis en cours de python
+Je suis en cours de python
 
-je decouvre git
+Je découvre git
+
+Il y en avait des fautes !
